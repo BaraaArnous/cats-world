@@ -6,7 +6,10 @@ var a = prompt('do you like cake ?')
 
  }
  else if (a == 'no') {
+
   document.write('<h3>' + a + '</h3>') 
+
+ 
 
  }
 
@@ -19,6 +22,7 @@ var a = prompt('do you like cake ?')
   nm =prompt ('how many cake do you want?please less than five')
 }
 for(var i=0;i<nm;i++)
+
  {
 
 
